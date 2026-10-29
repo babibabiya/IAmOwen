@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# 本地截图与工作区数据
+.shots/
+.workbuddy/
+
+# 单文件预览版（本地预览工具产物，部署用 index.html）
+index.single.html
+
+# WorkBuddy 应用卡文件
+.wbapp_*.genie
+
+# Figma 设计参考数据（含截图，不参与部署）
+design/
+
+# Python
+__pycache__/
+*.pyc
