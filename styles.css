@@ -9,21 +9,21 @@
   font-style:normal;
   font-weight:400;
   font-display:swap;
-  src:url('https://raw.githubusercontent.com/babibabiya/IAmOwen/main/assets/fonts/inder-400.woff2') format('woff2');
+  src:url('assets/fonts/inder-400.woff2') format('woff2');
 }
 @font-face{
   font-family:'HeroTitle';   /* 唯一名，避免与系统同名字体冲突 */
   font-style:normal;
   font-weight:400;
   font-display:swap;
-  src:url('https://raw.githubusercontent.com/babibabiya/IAmOwen/main/assets/fonts/leckerli-one-400.woff2') format('woff2');
+  src:url('assets/fonts/leckerli-one-400.woff2') format('woff2');
 }
 @font-face{
   font-family:'Inter';
   font-style:normal;
   font-weight:500;
   font-display:swap;
-  src:url('https://raw.githubusercontent.com/babibabiya/IAmOwen/main/assets/fonts/inter-500.woff2') format('woff2');
+  src:url('assets/fonts/inter-500.woff2') format('woff2');
 }
 
 :root{
